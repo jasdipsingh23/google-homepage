@@ -1,7 +1,7 @@
-/*
 ul {
-    list-style-type: none;
+    overflow: hidden;
 }
+
 
 li {
     float: left;
@@ -15,4 +15,7 @@ a {
 li a:hover {
     text-decoration: underline;
 }
-*/
+
+img {
+    float: center;
+}
