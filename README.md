@@ -1,0 +1,1 @@
+This project deconstructs Google's homepage and reconstructs it as an assignment from The Odin Project - TOP
