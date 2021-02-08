@@ -1,5 +1,44 @@
+li {
+    float: left;
+    align-items:center;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+li a{
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-size: 14px;
+    font-family: sans-serif, Arial;
+}
+
+#buttons {
+    margin-top: 10px;
+}
+
 #list {
-    display: inline-block;
+    color: #222;
+}
+
+#header {
+    margin-top: 10px;
+    padding: 6px;
+}
+
+#header-list-right {
+    float: right;
+    margin-right: 15px;
+}
+
+#header-list-first {
+    margin-left: 15px;
 }
 
 #github-img {
@@ -28,16 +67,18 @@
     padding: 20px;
 }
 
-
 #search-box {
     height: 44px;
     width: 584px;
-    font-size: 14px;
-    font-family: sans-serif, Arial;
     border: 1px solid;
     border-radius: 24px;
     border-left-color: rgb(223, 225, 229);
     border-right-color: rgb(223, 225, 229);
     border-top-color: rgb(223, 225, 229);
     border-bottom-color:  rgb(223, 225, 229);
+    text-align: center;
+}
+
+#footer-style {
+    margin-top: 200px;
 }
