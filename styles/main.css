@@ -1,6 +1,33 @@
 #list {
-
+    display: inline-block;
 }
+
+#github-img {
+    height: 32px;
+    width: 32px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#logo {
+    height: 92px;
+    width: 272px;
+    max-height: 100%;
+    max-width: 100%;
+    margin-top: 198px;
+    
+}
+
+#search-form {
+    width: 992px;
+    height: 92px;
+    padding: 20px;
+}
+
 
 #search-box {
     height: 44px;
